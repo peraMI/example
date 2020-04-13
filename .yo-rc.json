@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.mis.example",
+      "nativeLanguage": "sr"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "example",
+    "packageName": "com.mis.example",
+    "packageFolder": "com/mis/example",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjI0YTY5OTkxNjA3NWZjMTg5MmViYzA2MDQyZjI1ZjhlY2EwYTNkYWVjYzRkMWM3N2UwNzU2ZGM1ZTQzNjQxNDViMmFiZTI3MWUzYTUzNzdiYzhiNjM5N2RkNTFhY2Q4M2ZkYTg4ZDMxZTNlY2UxM2Q2ZWJjZTQzYTNiYWUzY2Q=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "materia",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1586645107926,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "sr",
+    "languages": ["sr", "en", "de"],
+    "blueprints": []
+  }
+}
